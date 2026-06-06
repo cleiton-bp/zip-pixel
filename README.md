@@ -2,6 +2,10 @@
 
 **Deixe suas imagens mais leves em segundos — sem instalar nada e sem enviar para lugar nenhum.**
 
+<p align="center">
+  <img src="zip-pixel.png" alt="Tela do ZipPixel" width="600">
+</p>
+
 ---
 
 ## O problema
